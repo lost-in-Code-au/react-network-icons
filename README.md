@@ -24,11 +24,11 @@ Pass in the `url` prop of your social network, and the icon will be rendered.
 
 ```js
 
-import { NetworkIcon } from 'react-network-icons';
+import { SocialIcon } from 'react-network-icons';
 
 
 
-<NetworkIcon url="http://bascamp.com/janedoe" />;
+<SocialIcon url="http://bascamp.com/janedoe" />;
 
 ```
 

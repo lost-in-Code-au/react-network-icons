@@ -1,1 +1,1 @@
-export NetworkIcon from './social-icon'
+export SocialIcon from './social-icon'
