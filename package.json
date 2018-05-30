@@ -1,6 +1,6 @@
 {
   "name": "react-network-icons",
-  "version": "2.9.5",
+  "version": "2.9.6",
   "description": "beautiful, easy svg network icons in react",
   "main": "./lib/react-network-icons.js",
   "scripts": {
