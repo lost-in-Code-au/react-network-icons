@@ -1,3 +1,7 @@
+# react-network-icons
+
+is the a forked version of 'react-social-icons' by Jake Trent, with the addition of company/networking icons 
+
 # react-social-icons
 
 A set of beautiful svg social icons.  Easily used in React.  No images or external css dependencies.  Svg paths provided by Squarespace.
