@@ -6,7 +6,7 @@ is the a forked version of 'react-social-icons' by Jake Trent, with the addition
 
 A set of beautiful svg social icons.  Easily used in React.  No images or external css dependencies.  Svg paths provided by Squarespace and homemade.
 
-![social network icons](http://i.imgur.com/RoIt9OD.png)
+![social network icons](./sampleshot.png)
 
 ## Install
 
